@@ -34,11 +34,9 @@ public class StudentGradeSystem
 	            System.out.println("Average grade: " + average);
 	            System.out.println("Highest grade: " + highest);
 	            System.out.println("Lowest grade: " + lowest);
-	        } else {
+	        } 
+		else {
 	            System.out.println("No grades were entered.");
 	        }
-
-	      
 	}
-
 }
